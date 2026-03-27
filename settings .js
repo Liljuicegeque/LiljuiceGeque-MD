@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0.9",
-  updateZipUrl: "https://github.com/Liljuicegeque/LiljuiceGeque-MD",
+  updateZipUrl: "https://github.com/Liljuicegeque/LiljuiceGeque-MD.git",
 };
 
 module.exports = settings;
